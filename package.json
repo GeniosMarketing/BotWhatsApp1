@@ -11,10 +11,13 @@
         "type": "git",
         "url": "git+https://github.com/GeniosMarketing/BotWhatsApp1.git"
     },
-    "author":"",
+    "author": "",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/GeniosMarketing/BotWhatsApp1.git/issues"
     },
-    "homepage": "https://github.com/GeniosMarketing/BotWhatsApp1.git#readme"
+    "homepage": "https://github.com/GeniosMarketing/BotWhatsApp1.git#readme",
+    "devDependencies": {
+        "typescript": "^4.7.4"
+    }
 }
